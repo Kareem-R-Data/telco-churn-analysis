@@ -10,6 +10,20 @@ Data cleaning and transformation were performed using SQL before loading the dat
 
 After loading the cleaned dataset into Power BI, the binary columns initially displayed as "Yes"/"No" instead of 0/1. This was corrected using Power Query's **Replace Values** feature to restore the 0/1 format used for visualizations and calculations.
 
+## Dashboard Previews
+
+### Dashboard 1: Dashboards
+![Dashboard 1](dashboard1_preview.png)
+
+### Dashboard 2: Insight 1
+![Dashboard 2](dashboard2_preview.png)
+
+### Dashboard 3: Insight 2
+![Dashboard 3](dashboard3_preview.png)
+
+### Dashboard 4: Insight 3
+![Dashboard 4](dashboard4_preview.png)
+
 ## Key Insights
 
 1. **Contract Type**
